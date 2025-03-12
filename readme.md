@@ -2,7 +2,7 @@
    🚀 Full Stack & Web3 Developer  
 </h1>
 
-👋 Hi, I'm Joshua – A passionate Full Stack & Web3 Developer with rich experience in building decentralized applications, trading platforms, and automated trading bots. 
+👋 Hi, I'm Joshua – A passionate Full Stack & Web3 Developer with extensive experience in building decentralized applications, trading platforms, and automated trading bots. 
 
 ## 🔥 Skills & Expertise
 
