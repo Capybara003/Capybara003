@@ -1,4 +1,6 @@
-# 🚀 Full Stack & Web3 Developer
+<h1 align="center">  
+   🚀 Full Stack & Web3 Developer  
+</h1>
 
 👋 Hi, I'm Joshua – A passionate Full Stack & Web3 Developer with rich experience in building decentralized applications, trading platforms, and automated trading bots. 
 
@@ -25,9 +27,6 @@
 <p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=capybara003&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=capybara003&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
 <br><br><br><br><br><br><br><br><br>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capybara003&theme=dark"/>
-</p>
 <p align="center">
     
 </p>
