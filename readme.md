@@ -11,16 +11,13 @@
   - Backend: Node.js, Express.js, Nest.js, GraphQL
   - Databases: PostgreSQL, MongoDB, Firebase
   - DevOps: Docker, AWS, Vercel
+  - Version Control: Git, GitHub, CI/CD
 
    ### Web3 & Blockchain 
    - Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
    - DeFi & Trading: CEX, DEX, Automated Market Makers (AMM), Trading Bots
    - Protocols: ERC-20, ERC-721, ERC-1155, Layer 2 Solutions
-   - Tools: Ethers.js, Web3.js, Moralis, IPFS
-
-  ### Other Tech
-   - AI & ML: Python, TensorFlow, OpenAI API
-   - Version Control: Git, GitHub, CI/CD
+   - Tools: Ethers.js, Web3.js, Moralis, IPFS   
 
  ## Github status
    <p align="center">
