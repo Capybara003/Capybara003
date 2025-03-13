@@ -2,7 +2,7 @@
    🚀 Full Stack & Web3 Developer  
 </h1>
 
-👋 A passionate Full Stack & Web3 Developer with extensive experience in building decentralized applications, trading platforms, and automated trading bots. 
+👋 I am a passionate full-stack and web3 developer with extensive experience in building decentralized applications, trading platforms and automated trading bots.
 
 ## 🔥 Skills & Expertise
 
