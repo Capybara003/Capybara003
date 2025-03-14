@@ -16,14 +16,5 @@
    ### Web3 & Blockchain 
    - Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
    - DeFi & Trading: CEX, DEX, Automated Market Makers (AMM), Trading Bots
-   - Tools: Ethers.js, Web3.js, Moralis, IPFS   
-
- ## Github status
-   <p align="center">
-<p><img align="left" src="https://github-readme-stats-eight-ruby-89.vercel.app/api/top-langs?username=capybara003&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats-eight-ruby-89.vercel.app/api?username=capybara003&show_icons=true&locale=en&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
-<br><br><br><br><br><br><br><br><br>
-<p align="center">
-    
-</p>
+   - Tools: Ethers.js, Web3.js, Moralis, IPFS
 
