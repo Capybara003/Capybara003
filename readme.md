@@ -1,8 +1,8 @@
 <h1 align="center">  
-   🚀 Full Stack & Web3 Developer  
+   🚀 Full Stack | Web3 | AI Engineer.  
 </h1>
 
-👋 I am a passionate full-stack and web3 developer with extensive experience in building decentralized applications, trading platforms and automated trading bots.
+👋 I am a passionate full-stack, web3 and AI engineer with extensive experience in building decentralized applications, trading platforms and automated trading bots.
 
 ## 🔥 Skills & Expertise
 
@@ -17,4 +17,9 @@
    - Smart Contracts: Solidity, Rust (Solana), Hardhat, Foundry
    - DeFi & Trading: CEX, DEX, Automated Market Makers (AMM), Trading Bots
    - Tools: Ethers.js, Web3.js, Moralis, IPFS
+  ### Artificial Intelligence & Machine Learning
+   - LLMs & NLP: OpenAI (GPT-4, Whisper), LangChain, LlamaIndex, Transformers (Hugging Face)
+   - Model Integration: Python APIs, FastAPI, RESTful AI services, Retrieval-Augmented Generation (RAG)
+   - Data & Training: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch (basic)
+   - AI Tooling: Pinecone, Weaviate, ChromaDB, Vector Embeddings
 
