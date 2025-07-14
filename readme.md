@@ -1,5 +1,5 @@
 <h1 align="center">  
-   🚀 Full Stack | Web3 | AI Engineer.  
+   🚀 Full Stack | Web3 | AI Engineer  
 </h1>
 
 👋 I am a passionate full-stack, web3 and AI engineer with extensive experience in building decentralized applications, trading platforms and automated trading bots.
